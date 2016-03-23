@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">integrated</string>
+    <string name="path">http://192.168.56.1:2345/spring_mvc_webservice/</string>
+</resources>
